@@ -2,7 +2,6 @@
 
 from colorama import Fore
 import os
-import itertools
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 
