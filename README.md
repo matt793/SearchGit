@@ -4,7 +4,7 @@ SearchGit allows you to search any Git-repo, view the README info, and install a
 ## Instructions
 First type `./SearchGit.sh` Then type in the desired repo you wish to search (if the search requires more then one word, use a `+` in between each word for the needed search. Example: Linux+exploits will = Linux exploits).
 
-SearchGit will then give you the top ten results of you search. If you would like to view more information on a repo: Copy the handle of a given repo, press the number `1` and then past the repo in the prompt that says "Add repo here:".
+SearchGit will then give you the top ten results of your search. If you would like to view more information on a repo: Copy the handle of a given repo, press the number `1` and then past the repo in the prompt that says "Add repo here:".
 
 ![Example](SearchGit1.png "Example")
 
