@@ -1,5 +1,5 @@
 # SearchGit
-SearchGit allows you to search any Git-repo, view the README info, and install any program exclusively from your own Linux terminal.
+SearchGit allows you to search any Git-repo, view the README info, and install any program exclusively from your own terminal.
 
 ## Instructions
 First type `./SearchGit.sh` Then type in the desired repo you wish to search (if the search requires more then one word, use a `+` in between each word for the needed search. Example: Linux+exploits will = Linux exploits).
@@ -16,3 +16,6 @@ At the bottom of your terminal you will be prompted to make a final choice. Pres
 
 ## Dependencies
 Run the `Dependencies.sh` file. You will need Python3 if you don't yet have it.
+
+## Windows
+Add the `exe` file to your `PATH` and the program will run in windows PowerShell
